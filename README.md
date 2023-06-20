@@ -1,4 +1,4 @@
-# Projeto SPA
+# Projeto Sorvete
 
 <br>Projeto desensolvido em estudo na plataforma da Rocketseat trilha explorer.</br>
 
